@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8e6552b8.css",
+    "main.js": "/static/js/main.0a41a9d5.js",
+    "static/js/27.7876eb8d.chunk.js": "/static/js/27.7876eb8d.chunk.js",
+    "static/media/sounds.gif": "/static/media/sounds.1fae8582536dd527fb14.gif",
+    "static/media/w.jpg": "/static/media/w.2420b48f50dadc0bb26b.jpg",
+    "static/media/Roboto-Thin.ttf": "/static/media/Roboto-Thin.a732a12eb07742232407.ttf",
+    "static/media/Raleway-Thin.ttf": "/static/media/Raleway-Thin.37b903083fc82c0bdc17.ttf",
+    "static/media/NotoSansBalinese-Regular.ttf": "/static/media/NotoSansBalinese-Regular.1a9aedfb8722da3bd3df.ttf",
+    "static/media/DancingScript-Medium.ttf": "/static/media/DancingScript-Medium.18363d2ef0655855f4a6.ttf",
+    "static/media/vimeo.jpg": "/static/media/vimeo.6c2766b2be2ce39d4030.jpg",
+    "static/media/google.webp": "/static/media/google.4f2ffefaee60716e94b4.webp",
+    "static/media/atlassian.jpg": "/static/media/atlassian.8958f8fd99dda0254bfb.jpg",
+    "static/media/logo_krolic.png": "/static/media/logo_krolic.958546a5a5aff176c5ab.png",
+    "static/media/Reddit.webp": "/static/media/Reddit.7393ff52a314231c6f49.webp",
+    "static/media/github.jpg": "/static/media/github.63a78ed4baa43c498f4b.jpg",
+    "static/media/imdb.png": "/static/media/imdb.073c1d87e5c9da5d72d5.png",
+    "static/media/blockchain.webp": "/static/media/blockchain.3847853878f9566c6429.webp",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.8e6552b8.css",
+    "static/js/main.0a41a9d5.js"
+  ]
+}
